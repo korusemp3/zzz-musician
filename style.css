@@ -1,14 +1,18 @@
 /* ===== ZZZ x Spotify base ===== */
 :root{
-  --bg: #0b0f1a;
-  --panel: #121826;
-  --panel2:#0f1524;
-  --text: #e6f1ff;
-  --muted:#9aa7c7;
-  --line: rgba(255,255,255,.08);
-  --accent:#6fffe9;   /* neon cyan */
-  --accent2:#9b5de5;  /* neon violet */
-  --shadow: 0 12px 30px rgba(0,0,0,.45);
+  --bg: #070A10;
+  --panel: #0F1626;
+  --panel2: #121C30;
+
+  --text: #EAF0FF;
+  --muted: #9AA7C7;
+
+  --line: rgba(255,255,255,.06);
+
+  --accent: #FF3B6B;      /* primary red */
+  --accent-deep: #B3123A; /* darker red */
+
+  --shadow: 0 8px 20px rgba(0,0,0,.6);
 }
 
 *{ box-sizing:border-box; }
